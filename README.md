@@ -1,7 +1,4 @@
-﻿# Pattern-Allure
-
-<img width="1906" height="965" alt="image" src="https://github.com/user-attachments/assets/6d0fe510-01a7-4697-95ae-ec742e787596" />
-<img width="1729" height="835" alt="image" src="https://github.com/user-attachments/assets/dbe198bd-fc97-4a95-8b6f-b41bf4f8ad20" />
+[![Java Tests](https://github.com/backupwow2085/Report-Portal/actions/workflows/main.yml/badge.svg)](https://github.com/backupwow2085/Report-Portal/actions/workflows/main.yml)
 
 ## Локальный запуск тестов и Allure
 
